@@ -1,2 +1,2 @@
 # compression
-huffman_compression
+huffman compression
